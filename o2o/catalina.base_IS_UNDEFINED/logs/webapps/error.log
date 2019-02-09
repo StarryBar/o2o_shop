@@ -1,0 +1,2 @@
+2018-12-02 00:29:48:340[main] ERROR o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2018-12-02 00:37:49:974[main] ERROR o2o.util.ImageUtil - java.io.FileNotFoundException: E:\image\upload\item\shop\3\2018120200374920607.png (The system cannot find the path specified)
